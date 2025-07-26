@@ -1,6 +1,0 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:T1318/ROM_3D_available.git
-git push -u origin main
